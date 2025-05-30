@@ -35,4 +35,14 @@ Each notebook showcases:
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-   
+
+3. **Set your environment variables**
+   Create a .env file or export them in your terminal:
+   ```bash
+   export COHERE_API_KEY=your-cohere-key
+   export OPENAI_API_KEY=your-openai-key
+
+4. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook
+
