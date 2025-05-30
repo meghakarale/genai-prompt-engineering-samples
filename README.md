@@ -32,6 +32,7 @@ Each notebook showcases:
    git clone https://github.com/yourusername/genai-prompt-engineering-samples.git
    cd genai-prompt-engineering-samples
 
-2. **Install dependencies** 
-pip install -r requirements.txt
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
    
