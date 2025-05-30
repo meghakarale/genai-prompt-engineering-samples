@@ -1,4 +1,4 @@
-# genai-prompt-engineering-samples
+
 # GenAI Prompt Engineering Samples
 
 This repository contains ready-to-run Jupyter notebooks demonstrating prompt engineering techniques using major Generative AI model providers:
