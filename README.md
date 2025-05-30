@@ -31,3 +31,7 @@ Each notebook showcases:
    ```bash
    git clone https://github.com/yourusername/genai-prompt-engineering-samples.git
    cd genai-prompt-engineering-samples
+
+2. **Install dependencies** 
+pip install -r requirements.txt
+   
