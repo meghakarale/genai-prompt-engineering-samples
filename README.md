@@ -46,3 +46,8 @@ Each notebook showcases:
    ```bash
    jupyter notebook
 
+---
+**Notes**
+The Meta LLaMA model is accessed via Hugging Face and may require a login/token depending on the model version.
+
+For Cohere and OpenAI, free-tier access is available with limits.
